@@ -8,3 +8,7 @@ The repository contains the code for the implementation of the Vision Transforme
 | ![The block diagram of the Vision Transformer](img/vit.png) |
 | :--: |
 | *The block diagram of the Vision Transformer along with the Transformer Encoder.* |
+
+## The follow architecture is the one which is implemented in this repo
+| ![The block diagram of the Vision Transformer](img/ResNet50-ViT.png) |
+| :--: |
